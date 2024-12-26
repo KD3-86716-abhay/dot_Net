@@ -1,0 +1,7 @@
+D:\DOTNET_FILES\HelloCSharp\project1_hello\bin\Debug\project1_hello.exe.config
+D:\DOTNET_FILES\HelloCSharp\project1_hello\bin\Debug\project1_hello.exe
+D:\DOTNET_FILES\HelloCSharp\project1_hello\bin\Debug\project1_hello.pdb
+D:\DOTNET_FILES\HelloCSharp\project1_hello\obj\Debug\project1_hello.csproj.AssemblyReference.cache
+D:\DOTNET_FILES\HelloCSharp\project1_hello\obj\Debug\project1_hello.csproj.CoreCompileInputs.cache
+D:\DOTNET_FILES\HelloCSharp\project1_hello\obj\Debug\project1_hello.exe
+D:\DOTNET_FILES\HelloCSharp\project1_hello\obj\Debug\project1_hello.pdb
