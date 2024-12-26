@@ -1,0 +1,7 @@
+D:\DOTNET_FILES\HelloCSharp\Question3.1\bin\Debug\Question3.1.exe.config
+D:\DOTNET_FILES\HelloCSharp\Question3.1\bin\Debug\Question3.1.exe
+D:\DOTNET_FILES\HelloCSharp\Question3.1\bin\Debug\Question3.1.pdb
+D:\DOTNET_FILES\HelloCSharp\Question3.1\obj\Debug\Question3.1.csproj.AssemblyReference.cache
+D:\DOTNET_FILES\HelloCSharp\Question3.1\obj\Debug\Question3.1.csproj.CoreCompileInputs.cache
+D:\DOTNET_FILES\HelloCSharp\Question3.1\obj\Debug\Question3.1.exe
+D:\DOTNET_FILES\HelloCSharp\Question3.1\obj\Debug\Question3.1.pdb
